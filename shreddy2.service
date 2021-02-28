@@ -1,0 +1,14 @@
+[Unit]
+Description=The Shreddy2 service.
+After=syslog.target
+
+[Service]
+Type=simple
+User=shreddy2
+Group=shreddy2
+ExecStart=/usr/local/bin/shreddy2.py
+StandardOutput=syslog
+StandardError=syslog
+
+[Install]
+WantedBy=multi-user.target
