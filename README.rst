@@ -132,8 +132,8 @@ Security and operational notes
   to run the shredding station in an air-gapped mode and using a buylight for
   status signalling.
 * If you operate the erasing station in a less trustworthy environment, the
-  station could be compromised. If your leave USB sticks, they may be removed
-  by other people, either before or after the clean up operation. Furthremore,
+  station could be compromised. If you leave USB sticks, they may be removed
+  by other people, either before or after the clean up operation. Furthermore,
   USB sticks could be replaced by malicius hardware that has got implants.
 * The erasing station should be labeled with a sufficiently noticable warning.
   Otherwise people think they could charge their phones.
