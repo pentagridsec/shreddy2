@@ -126,17 +126,17 @@ Security and operational notes
 ==============================
 
 * Overwriting Flash memory does not guarantee that there are no data residues
-  left. It only reduces the propability. It is best effort.
+  left. It only reduces the probability. It is best effort.
 * If the shredding station is compromised and a storage medium is attached,
   information is exposed to the compromised station. You may want
-  to run the shredding station in an air-gapped mode and using a buylight for
+  to run the shredding station in an air-gapped mode and using a Busylight for
   status signalling.
 * If you operate the erasing station in a less trustworthy environment, the
   station could be compromised. If you leave USB sticks, they may be removed
   by other people, either before or after the clean up operation. Furthermore,
-  USB sticks could be replaced by malicius hardware that has got implants.
-* The erasing station should be labeled with a sufficiently noticable warning.
-  Otherwise people think they could charge their phones.
+  USB sticks could be replaced by malicious hardware that has got implants.
+* The erasing station should be labelled with a sufficiently noticeable warning.
+  Otherwise, people think they could charge their phones.
 
 Copyright and Licence
 ======================
