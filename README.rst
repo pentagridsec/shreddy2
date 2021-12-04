@@ -11,7 +11,7 @@ software on a Raspberry PI. USB storage media attached to it is overwritten
 according to NIST 800-88. The overwriting cycle is 0x00, 0xff and then random
 data as final pass.
 
-Read the full story at https://pentagrid.ch/en/blog/XXXXXXXXXXXXXXXXXXXX
+Read the full story at https://pentagrid.ch/en/blog/shreddy2-the-raspberry-pi-storage-scrub-station-for-usb-thumb-drives/
 
 
 Setup
